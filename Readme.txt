@@ -10,5 +10,4 @@ Features
 4.Color-coded output for better visibility (using termcolor).
 5.Fast and efficient scanning with customizable timeout settings.g
 
-Contact: Ig-sahil.k_29 
-         Ph.no-+91-8950984892
+
